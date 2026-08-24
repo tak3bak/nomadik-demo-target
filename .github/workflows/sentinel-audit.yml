@@ -1,0 +1,24 @@
+name: Nomadik Sentinel Active Defense
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  sentinel-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Trigger Nomadik Sentinel Remediation Engine
+        run: |
+          echo "[*] Transmitting payload to Nomadik Security Operations..."
+          curl -s -X POST https://api.nomadik.site/v1/webhook/github \
+          -H "Content-Type: application/json" \
+          -H "Authorization: Bearer ${{ secrets.NOMADIK_API_KEY }}" \
+          -d '{
+            "repository": "${{ github.repository }}",
+            "pr_number": "${{ github.event.pull_request.number }}",
+            "commit_sha": "${{ github.sha }}"
+          }'
