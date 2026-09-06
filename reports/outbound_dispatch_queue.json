@@ -1,0 +1,92 @@
+[
+  {
+    "lead_id": "LEAD-DEV-001",
+    "to": "alex.mercer@cloudscale-tech.io",
+    "role_segment": "DevOps",
+    "subject": "Eliminating CI/CD security build blockers at CloudScale Systems",
+    "body": "Hi Alex,\n\nSaw your team is scaling infrastructure at CloudScale Systems. Most platform teams lose hours to false-positive scanner blocks.\n\nNomadik Security Sentinel embeds CodeMender into your git pipeline to score vulnerability reachability at runtime and generate patch PRs autonomously\u2014with zero source code retention.\n\nYou can spin up an automated pipeline audit with our Starter Plan here:\nhttps://nomadik.site/api/checkout?plan=starter\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Starter",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=starter",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-DEV-002",
+    "to": "jvance@dataflow-infra.net",
+    "role_segment": "DevOps",
+    "subject": "Eliminating CI/CD security build blockers at DataFlow Infra",
+    "body": "Hi Jordan,\n\nSaw your team is scaling infrastructure at DataFlow Infra. Most platform teams lose hours to false-positive scanner blocks.\n\nNomadik Security Sentinel embeds CodeMender into your git pipeline to score vulnerability reachability at runtime and generate patch PRs autonomously\u2014with zero source code retention.\n\nYou can spin up an automated pipeline audit with our Starter Plan here:\nhttps://nomadik.site/api/checkout?plan=starter\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Starter",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=starter",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-DEV-003",
+    "to": "loconnor@apexdeploy.dev",
+    "role_segment": "DevOps",
+    "subject": "Eliminating CI/CD security build blockers at ApexDeploy Solutions",
+    "body": "Hi Liam,\n\nSaw your team is scaling infrastructure at ApexDeploy Solutions. Most platform teams lose hours to false-positive scanner blocks.\n\nNomadik Security Sentinel embeds CodeMender into your git pipeline to score vulnerability reachability at runtime and generate patch PRs autonomously\u2014with zero source code retention.\n\nYou can spin up an automated pipeline audit with our Starter Plan here:\nhttps://nomadik.site/api/checkout?plan=starter\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Starter",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=starter",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-SEC-001",
+    "to": "erostova@cyberfortress.defense",
+    "role_segment": "SecOps",
+    "subject": "Reducing CVE alert fatigue & passkey threat detection at CyberFortress MSSP",
+    "body": "Hi Elena,\n\nHandling SOC triage for high-volume CVE streams creates massive operational overhead.\n\nNomadik Security Sentinel correlates Wazuh EDR telemetry against active exploits (including CVE-2026-34348 passkey replay detection) and uses Chokepoint Finder to collapse thousands of noisy alerts into single-action remediation tasks.\n\nWe are onboarding 3 enterprise design cohorts for our 30-day pilot:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-SEC-002",
+    "to": "mbrody@sentinelnet-sec.com",
+    "role_segment": "SecOps",
+    "subject": "Reducing CVE alert fatigue & passkey threat detection at SentinelNet Security",
+    "body": "Hi Marcus,\n\nHandling SOC triage for high-volume CVE streams creates massive operational overhead.\n\nNomadik Security Sentinel correlates Wazuh EDR telemetry against active exploits (including CVE-2026-34348 passkey replay detection) and uses Chokepoint Finder to collapse thousands of noisy alerts into single-action remediation tasks.\n\nWe are onboarding 3 enterprise design cohorts for our 30-day pilot:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-SEC-003",
+    "to": "swei@triad-defense.io",
+    "role_segment": "SecOps",
+    "subject": "Reducing CVE alert fatigue & passkey threat detection at Triad Defense Systems",
+    "body": "Hi Samantha,\n\nHandling SOC triage for high-volume CVE streams creates massive operational overhead.\n\nNomadik Security Sentinel correlates Wazuh EDR telemetry against active exploits (including CVE-2026-34348 passkey replay detection) and uses Chokepoint Finder to collapse thousands of noisy alerts into single-action remediation tasks.\n\nWe are onboarding 3 enterprise design cohorts for our 30-day pilot:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-CISO-001",
+    "to": "dsterling@vanguardfinancial.group",
+    "role_segment": "CISO",
+    "subject": "Cryptographic compliance evidence & usage-based security for Vanguard Financial Tech",
+    "body": "Hi David,\n\nPreparing audit-ready proof for SOC 2 Type II, ISO 27001, and multi-cloud environments (AWS/GCP) shouldn't require unpredictable annual software licensing.\n\nNomadik Security Sentinel generates deterministic, auditor-ready evidence sidecars while scaling costs via usage-based Singularity Credits.\n\nReview our enterprise tier and pilot terms here:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-CISO-002",
+    "to": "rkassovitz@healthvault-cloud.org",
+    "role_segment": "CISO",
+    "subject": "Cryptographic compliance evidence & usage-based security for HealthVault HealthTech",
+    "body": "Hi Rachel,\n\nPreparing audit-ready proof for SOC 2 Type II, ISO 27001, and multi-cloud environments (AWS/GCP) shouldn't require unpredictable annual software licensing.\n\nNomadik Security Sentinel generates deterministic, auditor-ready evidence sidecars while scaling costs via usage-based Singularity Credits.\n\nReview our enterprise tier and pilot terms here:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  },
+  {
+    "lead_id": "LEAD-CISO-003",
+    "to": "vtorres@nexus-aero.com",
+    "role_segment": "CISO",
+    "subject": "Cryptographic compliance evidence & usage-based security for Nexus Aerospace",
+    "body": "Hi Victor,\n\nPreparing audit-ready proof for SOC 2 Type II, ISO 27001, and multi-cloud environments (AWS/GCP) shouldn't require unpredictable annual software licensing.\n\nNomadik Security Sentinel generates deterministic, auditor-ready evidence sidecars while scaling costs via usage-based Singularity Credits.\n\nReview our enterprise tier and pilot terms here:\nhttps://nomadik.site/api/checkout?plan=pro\n\nBest,\nKalen Vandenbos\nNomadik Security Operations",
+    "payment_tier": "Pro Enterprise",
+    "checkout_url": "https://nomadik.site/api/checkout?plan=pro",
+    "status": "FAILED_403"
+  }
+]

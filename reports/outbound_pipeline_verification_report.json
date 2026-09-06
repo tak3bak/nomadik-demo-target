@@ -1,0 +1,11 @@
+{
+  "status": "VERIFIED_VALID",
+  "total_evaluated": 9,
+  "hygiene_score": "100%",
+  "segment_distribution": {
+    "CISO": 3,
+    "DevOps": 3,
+    "SecOps": 3
+  },
+  "validation_errors": []
+}
